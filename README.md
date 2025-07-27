@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+### I'm currently learning the basics of Python, Git, and networking.
 <!--
 **JosiahPark64/JosiahPark64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
